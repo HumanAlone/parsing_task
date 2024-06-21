@@ -1,0 +1,514 @@
+Country,Name,Artist,Listeners,Longitude,Latitude
+Russian Federation,Smells Like Teen Spirit,Nirvana,3206072,61.524,105.3188
+Russian Federation,Seven Nation Army,The White Stripes,2343189,61.524,105.3188
+Russian Federation,Numb,Linkin Park,2126574,61.524,105.3188
+Russian Federation,Intro,The xx,1432916,61.524,105.3188
+Russian Federation,Feel Good Inc.,Gorillaz,2661048,61.524,105.3188
+Russian Federation,In the End,Linkin Park,2311704,61.524,105.3188
+Russian Federation,Californication,Red Hot Chili Peppers,2364578,61.524,105.3188
+Russian Federation,Creep,Radiohead,2870305,61.524,105.3188
+Russian Federation,Take on Me,a-ha,2148860,61.524,105.3188
+Russian Federation,Zombie,The Cranberries,2012693,61.524,105.3188
+Germany,Smells Like Teen Spirit,Nirvana,3206072,51.1657,10.4515
+Germany,Africa,Toto,1647599,51.1657,10.4515
+Germany,Mr. Brightside,The Killers,3072882,51.1657,10.4515
+Germany,Come as You Are,Nirvana,2829904,51.1657,10.4515
+Germany,In the End,Linkin Park,2311704,51.1657,10.4515
+Germany,Don't Stop Believin',Journey,1655330,51.1657,10.4515
+Germany,Seven Nation Army,The White Stripes,2343189,51.1657,10.4515
+Germany,Chop Suey!,System of a Down,2359479,51.1657,10.4515
+Germany,Californication,Red Hot Chili Peppers,2364578,51.1657,10.4515
+Germany,All I Want for Christmas Is You,Mariah Carey,1669836,51.1657,10.4515
+United Kingdom,Mr. Brightside,The Killers,3072882,55.3781,-3.436
+United Kingdom,All I Want for Christmas Is You,Mariah Carey,1669836,55.3781,-3.436
+United Kingdom,Africa,Toto,1647599,55.3781,-3.436
+United Kingdom,Smells Like Teen Spirit,Nirvana,3206072,55.3781,-3.436
+United Kingdom,Last Christmas,Wham!,1448945,55.3781,-3.436
+United Kingdom,Seven Nation Army,The White Stripes,2343189,55.3781,-3.436
+United Kingdom,Take on Me,a-ha,2148860,55.3781,-3.436
+United Kingdom,Take Me Out,Franz Ferdinand,2363976,55.3781,-3.436
+United Kingdom,Everybody Wants to Rule the World,Tears for Fears,1938938,55.3781,-3.436
+United Kingdom,Come as You Are,Nirvana,2829904,55.3781,-3.436
+France,Smells Like Teen Spirit,Nirvana,3206072,46.6034,1.8883
+France,Creep,Radiohead,2870305,46.6034,1.8883
+France,Seven Nation Army,The White Stripes,2343189,46.6034,1.8883
+France,Teardrop,Massive Attack,1600282,46.6034,1.8883
+France,Karma Police,Radiohead,2466252,46.6034,1.8883
+France,Come as You Are,Nirvana,2829904,46.6034,1.8883
+France,No Surprises,Radiohead,2364438,46.6034,1.8883
+France,Wonderwall,Oasis,2260888,46.6034,1.8883
+France,Glory Box,Portishead,1264113,46.6034,1.8883
+France,Walk on the Wild Side,Lou Reed,1040518,46.6034,1.8883
+Italy,Creep,Radiohead,2870305,41.8719,12.5674
+Italy,Smells Like Teen Spirit,Nirvana,3206072,41.8719,12.5674
+Italy,Karma Police,Radiohead,2466252,41.8719,12.5674
+Italy,Come as You Are,Nirvana,2829904,41.8719,12.5674
+Italy,Losing My Religion,R.E.M.,1842134,41.8719,12.5674
+Italy,Teardrop,Massive Attack,1600282,41.8719,12.5674
+Italy,Sultans of Swing,Dire Straits,1522259,41.8719,12.5674
+Italy,Boys Don't Cry,The Cure,1717511,41.8719,12.5674
+Italy,Seven Nation Army,The White Stripes,2343189,41.8719,12.5674
+Italy,No Surprises,Radiohead,2364438,41.8719,12.5674
+Spain,Creep,Radiohead,2870305,40.4637,-3.7492
+Spain,Take Me Out,Franz Ferdinand,2363976,40.4637,-3.7492
+Spain,Seven Nation Army,The White Stripes,2343189,40.4637,-3.7492
+Spain,The Less I Know the Better,Tame Impala,1820269,40.4637,-3.7492
+Spain,Smells Like Teen Spirit,Nirvana,3206072,40.4637,-3.7492
+Spain,Losing My Religion,R.E.M.,1842134,40.4637,-3.7492
+Spain,Last Nite,The Strokes,1656955,40.4637,-3.7492
+Spain,Lonely Boy,The Black Keys,1215485,40.4637,-3.7492
+Spain,Do I Wanna Know?,Arctic Monkeys,2128754,40.4637,-3.7492
+Spain,Karma Police,Radiohead,2466252,40.4637,-3.7492
+Ukraine,Smells Like Teen Spirit,Nirvana,3206072,48.3794,31.1656
+Ukraine,Seven Nation Army,The White Stripes,2343189,48.3794,31.1656
+Ukraine,Creep,Radiohead,2870305,48.3794,31.1656
+Ukraine,Chop Suey!,System of a Down,2359479,48.3794,31.1656
+Ukraine,In the End,Linkin Park,2311704,48.3794,31.1656
+Ukraine,Do I Wanna Know?,Arctic Monkeys,2128754,48.3794,31.1656
+Ukraine,Numb,Linkin Park,2126574,48.3794,31.1656
+Ukraine,Californication,Red Hot Chili Peppers,2364578,48.3794,31.1656
+Ukraine,Toxicity,System of a Down,1807843,48.3794,31.1656
+Ukraine,Come as You Are,Nirvana,2829904,48.3794,31.1656
+Poland,Do I Wanna Know?,Arctic Monkeys,2128754,51.9194,19.1451
+Poland,Seven Nation Army,The White Stripes,2343189,51.9194,19.1451
+Poland,Smells Like Teen Spirit,Nirvana,3206072,51.9194,19.1451
+Poland,Chop Suey!,System of a Down,2359479,51.9194,19.1451
+Poland,Under the Bridge,Red Hot Chili Peppers,2211851,51.9194,19.1451
+Poland,Africa,Toto,1647599,51.9194,19.1451
+Poland,Sex on Fire,Kings of Leon,2169667,51.9194,19.1451
+Poland,Californication,Red Hot Chili Peppers,2364578,51.9194,19.1451
+Poland,Come as You Are,Nirvana,2829904,51.9194,19.1451
+Poland,Take on Me,a-ha,2148860,51.9194,19.1451
+Netherlands,Africa,Toto,1647599,52.1326,5.2913
+Netherlands,Sultans of Swing,Dire Straits,1522259,52.1326,5.2913
+Netherlands,Smells Like Teen Spirit,Nirvana,3206072,52.1326,5.2913
+Netherlands,Take on Me,a-ha,2148860,52.1326,5.2913
+Netherlands,Seven Nation Army,The White Stripes,2343189,52.1326,5.2913
+Netherlands,Under the Bridge,Red Hot Chili Peppers,2211851,52.1326,5.2913
+Netherlands,All I Want for Christmas Is You,Mariah Carey,1669836,52.1326,5.2913
+Netherlands,The Less I Know the Better,Tame Impala,1820269,52.1326,5.2913
+Netherlands,Mr. Brightside,The Killers,3072882,52.1326,5.2913
+Netherlands,Creep,Radiohead,2870305,52.1326,5.2913
+Belgium,The Less I Know the Better,Tame Impala,1820269,50.5039,4.4699
+Belgium,Smells Like Teen Spirit,Nirvana,3206072,50.5039,4.4699
+Belgium,Sultans of Swing,Dire Straits,1522259,50.5039,4.4699
+Belgium,Africa,Toto,1647599,50.5039,4.4699
+Belgium,Creep,Radiohead,2870305,50.5039,4.4699
+Belgium,Come as You Are,Nirvana,2829904,50.5039,4.4699
+Belgium,Teardrop,Massive Attack,1600282,50.5039,4.4699
+Belgium,Karma Police,Radiohead,2466252,50.5039,4.4699
+Belgium,Under the Bridge,Red Hot Chili Peppers,2211851,50.5039,4.4699
+Belgium,Take on Me,a-ha,2148860,50.5039,4.4699
+China,Hello,Adele,820388,35.8617,104.1954
+China,Yellow,Coldplay,2642867,35.8617,104.1954
+China,Viva la Vida,Coldplay,2598238,35.8617,104.1954
+China,Someone Like You,Adele,1689461,35.8617,104.1954
+China,Shape of You,Ed Sheeran,951830,35.8617,104.1954
+China,Rolling in the Deep,Adele,2083061,35.8617,104.1954
+China,Blank Space,Taylor Swift,1365712,35.8617,104.1954
+China,Can't Feel My Face,The Weeknd,1322599,35.8617,104.1954
+China,When We Were Young,Adele,744590,35.8617,104.1954
+China,Send My Love (To Your New Lover),Adele,684622,35.8617,104.1954
+India,Yellow,Coldplay,2642867,20.5937,78.9629
+India,The Scientist,Coldplay,2306951,20.5937,78.9629
+India,Wish You Were Here,Pink Floyd,1638667,20.5937,78.9629
+India,In the End,Linkin Park,2311704,20.5937,78.9629
+India,Comfortably Numb,Pink Floyd,1269582,20.5937,78.9629
+India,Smells Like Teen Spirit,Nirvana,3206072,20.5937,78.9629
+India,Sweet Child o' Mine,Guns N' Roses,2065128,20.5937,78.9629
+India,Shape of You,Ed Sheeran,951830,20.5937,78.9629
+India,Numb,Linkin Park,2126574,20.5937,78.9629
+India,Fix You,Coldplay,2063808,20.5937,78.9629
+Japan,ロビンソン,スピッツ,25556,36.2048,138.2529
+Japan,新宝島,サカナクション,16911,36.2048,138.2529
+Japan,STAY TUNE,Suchmos,35943,36.2048,138.2529
+Japan,リライト,ASIAN KUNG-FU GENERATION,88062,36.2048,138.2529
+Japan,花束を君に,宇多田ヒカル,14481,36.2048,138.2529
+Japan,チェリー,スピッツ,23393,36.2048,138.2529
+Japan,道,宇多田ヒカル,13576,36.2048,138.2529
+Japan,Smells Like Teen Spirit,Nirvana,3206072,36.2048,138.2529
+Japan,First Love,宇多田ヒカル,80330,36.2048,138.2529
+Japan,Bohemian Rhapsody,Queen,1839221,36.2048,138.2529
+Indonesia,Yellow,Coldplay,2642867,-0.7893,113.9213
+Indonesia,The Scientist,Coldplay,2306951,-0.7893,113.9213
+Indonesia,Somewhere Only We Know,Keane,1818045,-0.7893,113.9213
+Indonesia,Fix You,Coldplay,2063808,-0.7893,113.9213
+Indonesia,Creep,Radiohead,2870305,-0.7893,113.9213
+Indonesia,Mr. Brightside,The Killers,3072882,-0.7893,113.9213
+Indonesia,Untitled,MALIQ & D'Essentials,20776,-0.7893,113.9213
+Indonesia,Photograph,Ed Sheeran,896998,-0.7893,113.9213
+Indonesia,Kiss Me,Sixpence None the Richer,1334431,-0.7893,113.9213
+Indonesia,Dan...,Sheila On 7,23037,-0.7893,113.9213
+Saudi Arabia,Hello,Adele,820388,23.8859,45.0792
+Saudi Arabia,Can't Feel My Face,The Weeknd,1322599,23.8859,45.0792
+Saudi Arabia,Cheap Thrills,Sia,735624,23.8859,45.0792
+Saudi Arabia,The Scientist,Coldplay,2306951,23.8859,45.0792
+Saudi Arabia,Chandelier,Sia,1111682,23.8859,45.0792
+Saudi Arabia,Shape of You,Ed Sheeran,951830,23.8859,45.0792
+Saudi Arabia,Viva la Vida,Coldplay,2598238,23.8859,45.0792
+Saudi Arabia,Fix You,Coldplay,2063808,23.8859,45.0792
+Saudi Arabia,Mr. Brightside,The Killers,3072882,23.8859,45.0792
+Saudi Arabia,Yellow,Coldplay,2642867,23.8859,45.0792
+Turkey,Do I Wanna Know?,Arctic Monkeys,2128754,38.9637,35.2433
+Turkey,Bir Derdim Var,Mor ve Ötesi,72143,38.9637,35.2433
+Turkey,Creep,Radiohead,2870305,38.9637,35.2433
+Turkey,Karma Police,Radiohead,2466252,38.9637,35.2433
+Turkey,Teardrop,Massive Attack,1600282,38.9637,35.2433
+Turkey,The Less I Know the Better,Tame Impala,1820269,38.9637,35.2433
+Turkey,Cambaz,Mor ve Ötesi,56551,38.9637,35.2433
+Turkey,Roads,Portishead,1045349,38.9637,35.2433
+Turkey,Seven Nation Army,The White Stripes,2343189,38.9637,35.2433
+Turkey,Take Me to Church,Hozier,1635024,38.9637,35.2433
+Thailand,Yellow,Coldplay,2642867,15.87,100.9925
+Thailand,Shape of You,Ed Sheeran,951830,15.87,100.9925
+Thailand,The Scientist,Coldplay,2306951,15.87,100.9925
+Thailand,Thinking Out Loud,Ed Sheeran,952337,15.87,100.9925
+Thailand,Photograph,Ed Sheeran,896998,15.87,100.9925
+Thailand,Creep,Radiohead,2870305,15.87,100.9925
+Thailand,Hello,Adele,820388,15.87,100.9925
+Thailand,Mr. Brightside,The Killers,3072882,15.87,100.9925
+Thailand,Smells Like Teen Spirit,Nirvana,3206072,15.87,100.9925
+Thailand,Somewhere Only We Know,Keane,1818045,15.87,100.9925
+Malaysia,Yellow,Coldplay,2642867,4.2105,101.9758
+Malaysia,The Scientist,Coldplay,2306951,4.2105,101.9758
+Malaysia,Photograph,Ed Sheeran,896998,4.2105,101.9758
+Malaysia,Mr. Brightside,The Killers,3072882,4.2105,101.9758
+Malaysia,In the End,Linkin Park,2311704,4.2105,101.9758
+Malaysia,Somewhere Only We Know,Keane,1818045,4.2105,101.9758
+Malaysia,Fix You,Coldplay,2063808,4.2105,101.9758
+Malaysia,Viva la Vida,Coldplay,2598238,4.2105,101.9758
+Malaysia,Hello,Adele,820388,4.2105,101.9758
+Malaysia,Creep,Radiohead,2870305,4.2105,101.9758
+United States,Mr. Brightside,The Killers,3072882,37.0902,-95.7129
+United States,Float On,Modest Mouse,1511068,37.0902,-95.7129
+United States,The Less I Know the Better,Tame Impala,1820269,37.0902,-95.7129
+United States,Smells Like Teen Spirit,Nirvana,3206072,37.0902,-95.7129
+United States,Everybody Wants to Rule the World,Tears for Fears,1938938,37.0902,-95.7129
+United States,Can't Feel My Face,The Weeknd,1322599,37.0902,-95.7129
+United States,Everlong,Foo Fighters,2339983,37.0902,-95.7129
+United States,Seven Nation Army,The White Stripes,2343189,37.0902,-95.7129
+United States,The Middle,Jimmy Eat World,1581066,37.0902,-95.7129
+United States,Electric Feel,MGMT,2142858,37.0902,-95.7129
+Canada,Mr. Brightside,The Killers,3072882,56.1304,-106.3468
+Canada,Smells Like Teen Spirit,Nirvana,3206072,56.1304,-106.3468
+Canada,Seven Nation Army,The White Stripes,2343189,56.1304,-106.3468
+Canada,The Less I Know the Better,Tame Impala,1820269,56.1304,-106.3468
+Canada,Karma Police,Radiohead,2466252,56.1304,-106.3468
+Canada,Creep,Radiohead,2870305,56.1304,-106.3468
+Canada,Can't Feel My Face,The Weeknd,1322599,56.1304,-106.3468
+Canada,Come as You Are,Nirvana,2829904,56.1304,-106.3468
+Canada,Feel Good Inc.,Gorillaz,2661048,56.1304,-106.3468
+Canada,Take on Me,a-ha,2148860,56.1304,-106.3468
+Mexico,Creep,Radiohead,2870305,23.6345,-102.5528
+Mexico,Seven Nation Army,The White Stripes,2343189,23.6345,-102.5528
+Mexico,Take Me Out,Franz Ferdinand,2363976,23.6345,-102.5528
+Mexico,Mr. Brightside,The Killers,3072882,23.6345,-102.5528
+Mexico,The Less I Know the Better,Tame Impala,1820269,23.6345,-102.5528
+Mexico,Reptilia,The Strokes,1919555,23.6345,-102.5528
+Mexico,Feel Good Inc.,Gorillaz,2661048,23.6345,-102.5528
+Mexico,Do I Wanna Know?,Arctic Monkeys,2128754,23.6345,-102.5528
+Mexico,Last Nite,The Strokes,1656955,23.6345,-102.5528
+Mexico,Take on Me,a-ha,2148860,23.6345,-102.5528
+Guatemala,Creep,Radiohead,2870305,15.7835,-90.2308
+Guatemala,Losing My Religion,R.E.M.,1842134,15.7835,-90.2308
+Guatemala,Smells Like Teen Spirit,Nirvana,3206072,15.7835,-90.2308
+Guatemala,In the End,Linkin Park,2311704,15.7835,-90.2308
+Guatemala,Take on Me,a-ha,2148860,15.7835,-90.2308
+Guatemala,Seven Nation Army,The White Stripes,2343189,15.7835,-90.2308
+Guatemala,Yellow,Coldplay,2642867,15.7835,-90.2308
+Guatemala,Come as You Are,Nirvana,2829904,15.7835,-90.2308
+Guatemala,Chop Suey!,System of a Down,2359479,15.7835,-90.2308
+Guatemala,Mr. Brightside,The Killers,3072882,15.7835,-90.2308
+Honduras,Yellow,Coldplay,2642867,15.2,-86.2419
+Honduras,Creep,Radiohead,2870305,15.2,-86.2419
+Honduras,Pumped Up Kicks,Foster the People,2194143,15.2,-86.2419
+Honduras,Can't Feel My Face,The Weeknd,1322599,15.2,-86.2419
+Honduras,Feel Good Inc.,Gorillaz,2661048,15.2,-86.2419
+Honduras,Seven Nation Army,The White Stripes,2343189,15.2,-86.2419
+Honduras,Do I Wanna Know?,Arctic Monkeys,2128754,15.2,-86.2419
+Honduras,In the End,Linkin Park,2311704,15.2,-86.2419
+Honduras,The Scientist,Coldplay,2306951,15.2,-86.2419
+Honduras,One More Time,Daft Punk,1754637,15.2,-86.2419
+Nicaragua,Take on Me,a-ha,2148860,12.8654,-85.2072
+Nicaragua,The Scientist,Coldplay,2306951,12.8654,-85.2072
+Nicaragua,Pumped Up Kicks,Foster the People,2194143,12.8654,-85.2072
+Nicaragua,Take Me Out,Franz Ferdinand,2363976,12.8654,-85.2072
+Nicaragua,The Less I Know the Better,Tame Impala,1820269,12.8654,-85.2072
+Nicaragua,Sex on Fire,Kings of Leon,2169667,12.8654,-85.2072
+Nicaragua,Everybody Wants to Rule the World,Tears for Fears,1938938,12.8654,-85.2072
+Nicaragua,Seven Nation Army,The White Stripes,2343189,12.8654,-85.2072
+Nicaragua,Every Breath You Take,The Police,1795526,12.8654,-85.2072
+Nicaragua,Hello,Adele,820388,12.8654,-85.2072
+Costa Rica,Creep,Radiohead,2870305,9.7489,-83.7534
+Costa Rica,Losing My Religion,R.E.M.,1842134,9.7489,-83.7534
+Costa Rica,Karma Police,Radiohead,2466252,9.7489,-83.7534
+Costa Rica,Chop Suey!,System of a Down,2359479,9.7489,-83.7534
+Costa Rica,Mr. Brightside,The Killers,3072882,9.7489,-83.7534
+Costa Rica,Feel Good Inc.,Gorillaz,2661048,9.7489,-83.7534
+Costa Rica,Take on Me,a-ha,2148860,9.7489,-83.7534
+Costa Rica,Under the Bridge,Red Hot Chili Peppers,2211851,9.7489,-83.7534
+Costa Rica,Everlong,Foo Fighters,2339983,9.7489,-83.7534
+Costa Rica,Smells Like Teen Spirit,Nirvana,3206072,9.7489,-83.7534
+Panama,In the End,Linkin Park,2311704,8.538,-80.7821
+Panama,Smells Like Teen Spirit,Nirvana,3206072,8.538,-80.7821
+Panama,Take on Me,a-ha,2148860,8.538,-80.7821
+Panama,Chop Suey!,System of a Down,2359479,8.538,-80.7821
+Panama,Creep,Radiohead,2870305,8.538,-80.7821
+Panama,Mr. Brightside,The Killers,3072882,8.538,-80.7821
+Panama,Come as You Are,Nirvana,2829904,8.538,-80.7821
+Panama,Losing My Religion,R.E.M.,1842134,8.538,-80.7821
+Panama,Zombie,The Cranberries,2012693,8.538,-80.7821
+Panama,Sweet Child o' Mine,Guns N' Roses,2065128,8.538,-80.7821
+Cuba,Blinding Lights,The Weeknd,1707888,21.5218,-77.7812
+Cuba,Everlong,Foo Fighters,2339983,21.5218,-77.7812
+Cuba,Smells Like Teen Spirit,Nirvana,3206072,21.5218,-77.7812
+Cuba,Save Your Tears,The Weeknd,1286958,21.5218,-77.7812
+Cuba,Everybody Wants to Rule the World,Tears for Fears,1938938,21.5218,-77.7812
+Cuba,Take on Me,a-ha,2148860,21.5218,-77.7812
+Cuba,Billie Jean,Michael Jackson,2228528,21.5218,-77.7812
+Cuba,Losing My Religion,R.E.M.,1842134,21.5218,-77.7812
+Cuba,Last Nite,The Strokes,1656955,21.5218,-77.7812
+Cuba,Fortunate Son,Creedence Clearwater Revival,1674461,21.5218,-77.7812
+Dominican Republic,Smells Like Teen Spirit,Nirvana,3206072,18.7357,-70.1627
+Dominican Republic,Can't Feel My Face,The Weeknd,1322599,18.7357,-70.1627
+Dominican Republic,Take on Me,a-ha,2148860,18.7357,-70.1627
+Dominican Republic,Losing My Religion,R.E.M.,1842134,18.7357,-70.1627
+Dominican Republic,Do I Wanna Know?,Arctic Monkeys,2128754,18.7357,-70.1627
+Dominican Republic,Seven Nation Army,The White Stripes,2343189,18.7357,-70.1627
+Dominican Republic,Creep,Radiohead,2870305,18.7357,-70.1627
+Dominican Republic,Everybody Wants to Rule the World,Tears for Fears,1938938,18.7357,-70.1627
+Dominican Republic,Mr. Brightside,The Killers,3072882,18.7357,-70.1627
+Dominican Republic,Feel Good Inc.,Gorillaz,2661048,18.7357,-70.1627
+Brazil,Do I Wanna Know?,Arctic Monkeys,2128754,-14.235,-51.9253
+Brazil,Mr. Brightside,The Killers,3072882,-14.235,-51.9253
+Brazil,Take on Me,a-ha,2148860,-14.235,-51.9253
+Brazil,Losing My Religion,R.E.M.,1842134,-14.235,-51.9253
+Brazil,Seven Nation Army,The White Stripes,2343189,-14.235,-51.9253
+Brazil,R U Mine?,Arctic Monkeys,1652572,-14.235,-51.9253
+Brazil,In the End,Linkin Park,2311704,-14.235,-51.9253
+Brazil,Smells Like Teen Spirit,Nirvana,3206072,-14.235,-51.9253
+Brazil,The Less I Know the Better,Tame Impala,1820269,-14.235,-51.9253
+Brazil,Californication,Red Hot Chili Peppers,2364578,-14.235,-51.9253
+Argentina,Creep,Radiohead,2870305,-38.4161,-63.6167
+Argentina,Last Nite,The Strokes,1656955,-38.4161,-63.6167
+Argentina,Karma Police,Radiohead,2466252,-38.4161,-63.6167
+Argentina,Losing My Religion,R.E.M.,1842134,-38.4161,-63.6167
+Argentina,Puente,Gustavo Cerati,138248,-38.4161,-63.6167
+Argentina,Under the Bridge,Red Hot Chili Peppers,2211851,-38.4161,-63.6167
+Argentina,Do I Wanna Know?,Arctic Monkeys,2128754,-38.4161,-63.6167
+Argentina,Come as You Are,Nirvana,2829904,-38.4161,-63.6167
+Argentina,Boys Don't Cry,The Cure,1717511,-38.4161,-63.6167
+Argentina,Smells Like Teen Spirit,Nirvana,3206072,-38.4161,-63.6167
+Colombia,Creep,Radiohead,2870305,4.5709,-74.2973
+Colombia,Do I Wanna Know?,Arctic Monkeys,2128754,4.5709,-74.2973
+Colombia,Losing My Religion,R.E.M.,1842134,4.5709,-74.2973
+Colombia,Seven Nation Army,The White Stripes,2343189,4.5709,-74.2973
+Colombia,Take Me Out,Franz Ferdinand,2363976,4.5709,-74.2973
+Colombia,Last Nite,The Strokes,1656955,4.5709,-74.2973
+Colombia,Smells Like Teen Spirit,Nirvana,3206072,4.5709,-74.2973
+Colombia,Reptilia,The Strokes,1919555,4.5709,-74.2973
+Colombia,Mr. Brightside,The Killers,3072882,4.5709,-74.2973
+Colombia,Sex on Fire,Kings of Leon,2169667,4.5709,-74.2973
+Chile,Creep,Radiohead,2870305,-35.6751,-71.543
+Chile,Karma Police,Radiohead,2466252,-35.6751,-71.543
+Chile,Last Nite,The Strokes,1656955,-35.6751,-71.543
+Chile,The Less I Know the Better,Tame Impala,1820269,-35.6751,-71.543
+Chile,Take Me Out,Franz Ferdinand,2363976,-35.6751,-71.543
+Chile,Losing My Religion,R.E.M.,1842134,-35.6751,-71.543
+Chile,Boys Don't Cry,The Cure,1717511,-35.6751,-71.543
+Chile,Reptilia,The Strokes,1919555,-35.6751,-71.543
+Chile,Estrechez De Corazón,Los Prisioneros,79911,-35.6751,-71.543
+Chile,Do I Wanna Know?,Arctic Monkeys,2128754,-35.6751,-71.543
+Peru,Creep,Radiohead,2870305,-9.19,-75.0152
+Peru,Take Me Out,Franz Ferdinand,2363976,-9.19,-75.0152
+Peru,Last Nite,The Strokes,1656955,-9.19,-75.0152
+Peru,Take on Me,a-ha,2148860,-9.19,-75.0152
+Peru,Losing My Religion,R.E.M.,1842134,-9.19,-75.0152
+Peru,Mr. Brightside,The Killers,3072882,-9.19,-75.0152
+Peru,Yellow,Coldplay,2642867,-9.19,-75.0152
+Peru,The Less I Know the Better,Tame Impala,1820269,-9.19,-75.0152
+Peru,Smells Like Teen Spirit,Nirvana,3206072,-9.19,-75.0152
+Peru,The Scientist,Coldplay,2306951,-9.19,-75.0152
+Venezuela,Creep,Radiohead,2870305,6.4238,-66.5897
+Venezuela,In the End,Linkin Park,2311704,6.4238,-66.5897
+Venezuela,Mr. Brightside,The Killers,3072882,6.4238,-66.5897
+Venezuela,Smells Like Teen Spirit,Nirvana,3206072,6.4238,-66.5897
+Venezuela,Seven Nation Army,The White Stripes,2343189,6.4238,-66.5897
+Venezuela,Can't Feel My Face,The Weeknd,1322599,6.4238,-66.5897
+Venezuela,Do I Wanna Know?,Arctic Monkeys,2128754,6.4238,-66.5897
+Venezuela,Californication,Red Hot Chili Peppers,2364578,6.4238,-66.5897
+Venezuela,Everlong,Foo Fighters,2339983,6.4238,-66.5897
+Venezuela,Karma Police,Radiohead,2466252,6.4238,-66.5897
+Ecuador,Under the Bridge,Red Hot Chili Peppers,2211851,-1.8312,-78.1834
+Ecuador,Losing My Religion,R.E.M.,1842134,-1.8312,-78.1834
+Ecuador,Creep,Radiohead,2870305,-1.8312,-78.1834
+Ecuador,Seven Nation Army,The White Stripes,2343189,-1.8312,-78.1834
+Ecuador,Take on Me,a-ha,2148860,-1.8312,-78.1834
+Ecuador,The Scientist,Coldplay,2306951,-1.8312,-78.1834
+Ecuador,Do I Wanna Know?,Arctic Monkeys,2128754,-1.8312,-78.1834
+Ecuador,Smells Like Teen Spirit,Nirvana,3206072,-1.8312,-78.1834
+Ecuador,Come as You Are,Nirvana,2829904,-1.8312,-78.1834
+Ecuador,Bitter Sweet Symphony,The Verve,1541354,-1.8312,-78.1834
+Bolivia,Creep,Radiohead,2870305,-16.2902,-63.5887
+Bolivia,Smells Like Teen Spirit,Nirvana,3206072,-16.2902,-63.5887
+Bolivia,Otherside,Red Hot Chili Peppers,1918734,-16.2902,-63.5887
+Bolivia,Sex on Fire,Kings of Leon,2169667,-16.2902,-63.5887
+Bolivia,Take on Me,a-ha,2148860,-16.2902,-63.5887
+Bolivia,Losing My Religion,R.E.M.,1842134,-16.2902,-63.5887
+Bolivia,Come as You Are,Nirvana,2829904,-16.2902,-63.5887
+Bolivia,Under the Bridge,Red Hot Chili Peppers,2211851,-16.2902,-63.5887
+Bolivia,Seven Nation Army,The White Stripes,2343189,-16.2902,-63.5887
+Bolivia,Sweet Child o' Mine,Guns N' Roses,2065128,-16.2902,-63.5887
+Paraguay,Mr. Brightside,The Killers,3072882,-23.4425,-58.4438
+Paraguay,Take Me Out,Franz Ferdinand,2363976,-23.4425,-58.4438
+Paraguay,Do I Wanna Know?,Arctic Monkeys,2128754,-23.4425,-58.4438
+Paraguay,Seven Nation Army,The White Stripes,2343189,-23.4425,-58.4438
+Paraguay,Creep,Radiohead,2870305,-23.4425,-58.4438
+Paraguay,Take on Me,a-ha,2148860,-23.4425,-58.4438
+Paraguay,Sex on Fire,Kings of Leon,2169667,-23.4425,-58.4438
+Paraguay,Africa,Toto,1647599,-23.4425,-58.4438
+Paraguay,Feel Good Inc.,Gorillaz,2661048,-23.4425,-58.4438
+Paraguay,Last Nite,The Strokes,1656955,-23.4425,-58.4438
+Uruguay,Losing My Religion,R.E.M.,1842134,-32.5228,-55.7658
+Uruguay,Smells Like Teen Spirit,Nirvana,3206072,-32.5228,-55.7658
+Uruguay,Last Nite,The Strokes,1656955,-32.5228,-55.7658
+Uruguay,Seven Nation Army,The White Stripes,2343189,-32.5228,-55.7658
+Uruguay,Creep,Radiohead,2870305,-32.5228,-55.7658
+Uruguay,Take on Me,a-ha,2148860,-32.5228,-55.7658
+Uruguay,Under the Bridge,Red Hot Chili Peppers,2211851,-32.5228,-55.7658
+Uruguay,Take Me Out,Franz Ferdinand,2363976,-32.5228,-55.7658
+Uruguay,Reptilia,The Strokes,1919555,-32.5228,-55.7658
+Uruguay,Sultans of Swing,Dire Straits,1522259,-32.5228,-55.7658
+Nigeria,Ojuelegba,Wizkid,35107,9.082,8.6753
+Nigeria,Can't Feel My Face,The Weeknd,1322599,9.082,8.6753
+Nigeria,On The Low,Burna Boy,88331,9.082,8.6753
+Nigeria,Mad over You,RUNTOWN,17848,9.082,8.6753
+Nigeria,Shape of You,Ed Sheeran,951830,9.082,8.6753
+Nigeria,Hello,Adele,820388,9.082,8.6753
+Nigeria,Ye,Burna Boy,88834,9.082,8.6753
+Nigeria,Gbona,Burna Boy,74898,9.082,8.6753
+Nigeria,Pana,Tekno,24001,9.082,8.6753
+Nigeria,HUMBLE.,Kendrick Lamar,1544791,9.082,8.6753
+South Africa,Smells Like Teen Spirit,Nirvana,3206072,-30.5595,22.9375
+South Africa,Seven Nation Army,The White Stripes,2343189,-30.5595,22.9375
+South Africa,Creep,Radiohead,2870305,-30.5595,22.9375
+South Africa,Mr. Brightside,The Killers,3072882,-30.5595,22.9375
+South Africa,Come as You Are,Nirvana,2829904,-30.5595,22.9375
+South Africa,Take on Me,a-ha,2148860,-30.5595,22.9375
+South Africa,Losing My Religion,R.E.M.,1842134,-30.5595,22.9375
+South Africa,Africa,Toto,1647599,-30.5595,22.9375
+South Africa,Under the Bridge,Red Hot Chili Peppers,2211851,-30.5595,22.9375
+South Africa,Karma Police,Radiohead,2466252,-30.5595,22.9375
+Egypt,Wish You Were Here,Pink Floyd,1638667,26.8206,30.8025
+Egypt,Creep,Radiohead,2870305,26.8206,30.8025
+Egypt,Do I Wanna Know?,Arctic Monkeys,2128754,26.8206,30.8025
+Egypt,Comfortably Numb,Pink Floyd,1269582,26.8206,30.8025
+Egypt,In the End,Linkin Park,2311704,26.8206,30.8025
+Egypt,Zombie,The Cranberries,2012693,26.8206,30.8025
+Egypt,Nothing Else Matters,Metallica,1497462,26.8206,30.8025
+Egypt,Smells Like Teen Spirit,Nirvana,3206072,26.8206,30.8025
+Egypt,Hello,Adele,820388,26.8206,30.8025
+Egypt,Karma Police,Radiohead,2466252,26.8206,30.8025
+Algeria,Creep,Radiohead,2870305,28.0339,1.6596
+Algeria,Losing My Religion,R.E.M.,1842134,28.0339,1.6596
+Algeria,Do I Wanna Know?,Arctic Monkeys,2128754,28.0339,1.6596
+Algeria,Intro,The xx,1432916,28.0339,1.6596
+Algeria,Starlight,Muse,1675102,28.0339,1.6596
+Algeria,Numb,Linkin Park,2126574,28.0339,1.6596
+Algeria,Wonderwall,Oasis,2260888,28.0339,1.6596
+Algeria,Sultans of Swing,Dire Straits,1522259,28.0339,1.6596
+Algeria,Shape of You,Ed Sheeran,951830,28.0339,1.6596
+Algeria,Smells Like Teen Spirit,Nirvana,3206072,28.0339,1.6596
+Morocco,Smells Like Teen Spirit,Nirvana,3206072,31.7917,-7.0926
+Morocco,Sultans of Swing,Dire Straits,1522259,31.7917,-7.0926
+Morocco,The Less I Know the Better,Tame Impala,1820269,31.7917,-7.0926
+Morocco,Creep,Radiohead,2870305,31.7917,-7.0926
+Morocco,Intro,The xx,1432916,31.7917,-7.0926
+Morocco,Can't Feel My Face,The Weeknd,1322599,31.7917,-7.0926
+Morocco,Do I Wanna Know?,Arctic Monkeys,2128754,31.7917,-7.0926
+Morocco,HUMBLE.,Kendrick Lamar,1544791,31.7917,-7.0926
+Morocco,Back to Black,Amy Winehouse,1956807,31.7917,-7.0926
+Morocco,Seven Nation Army,The White Stripes,2343189,31.7917,-7.0926
+Kenya,Can't Feel My Face,The Weeknd,1322599,-0.0236,37.9062
+Kenya,Hello,Adele,820388,-0.0236,37.9062
+Kenya,Hotline Bling,Drake,978214,-0.0236,37.9062
+Kenya,Viva la Vida,Coldplay,2598238,-0.0236,37.9062
+Kenya,Sorry,Justin Bieber,917151,-0.0236,37.9062
+Kenya,HUMBLE.,Kendrick Lamar,1544791,-0.0236,37.9062
+Kenya,The Scientist,Coldplay,2306951,-0.0236,37.9062
+Kenya,One Dance,Drake,1289824,-0.0236,37.9062
+Kenya,Stressed Out,Twenty One Pilots,1296206,-0.0236,37.9062
+Kenya,Adventure Of A Lifetime,Coldplay,780018,-0.0236,37.9062
+Ethiopia,Fast Car,Tracy Chapman,1010260,9.145,40.4897
+Ethiopia,Tainted Love,Soft Cell,1473476,9.145,40.4897
+Ethiopia,High and Dry,Radiohead,1818733,9.145,40.4897
+Ethiopia,Losing My Religion,R.E.M.,1842134,9.145,40.4897
+Ethiopia,Zombie,The Cranberries,2012693,9.145,40.4897
+Ethiopia,Sweet Child o' Mine,Guns N' Roses,2065128,9.145,40.4897
+Ethiopia,Teardrop,Massive Attack,1600282,9.145,40.4897
+Ethiopia,Bitter Sweet Symphony,The Verve,1541354,9.145,40.4897
+Ethiopia,Gimme Shelter,The Rolling Stones,1351685,9.145,40.4897
+Ethiopia,Glory Box,Portishead,1264113,9.145,40.4897
+Ghana,Rolling in the Deep,Adele,2083061,7.9465,-1.0232
+Ghana,Fix You,Coldplay,2063808,7.9465,-1.0232
+Ghana,Someone Like You,Adele,1689461,7.9465,-1.0232
+Ghana,Make You Feel My Love,Adele,1070957,7.9465,-1.0232
+Ghana,Yellow,Coldplay,2642867,7.9465,-1.0232
+Ghana,Stronger,Kanye West,2271556,7.9465,-1.0232
+Ghana,Set Fire to the Rain,Adele,1575630,7.9465,-1.0232
+Ghana,September,"Earth, Wind & Fire",1548109,7.9465,-1.0232
+Ghana,Hello,Adele,820388,7.9465,-1.0232
+Ghana,Is This Love,Bob Marley & The Wailers,923356,7.9465,-1.0232
+Uganda,Hello,Adele,820388,1.3733,32.2903
+Uganda,Lean On (feat. MØ & DJ Snake),Major Lazer,804664,1.3733,32.2903
+Uganda,Jamming,Bob Marley & The Wailers,773492,1.3733,32.2903
+Uganda,Rolling in the Deep,Adele,2083061,1.3733,32.2903
+Uganda,No Scrubs,TLC,1233419,1.3733,32.2903
+Uganda,Three Little Birds,Bob Marley & The Wailers,1056409,1.3733,32.2903
+Uganda,Ready or Not,Fugees,748291,1.3733,32.2903
+Uganda,All That She Wants,Ace of Base,721455,1.3733,32.2903
+Uganda,On The Low,Burna Boy,88331,1.3733,32.2903
+Uganda,Ye,Burna Boy,88834,1.3733,32.2903
+Australia,Mr. Brightside,The Killers,3072882,-25.2744,133.7751
+Australia,The Less I Know the Better,Tame Impala,1820269,-25.2744,133.7751
+Australia,Feel Good Inc.,Gorillaz,2661048,-25.2744,133.7751
+Australia,Africa,Toto,1647599,-25.2744,133.7751
+Australia,Smells Like Teen Spirit,Nirvana,3206072,-25.2744,133.7751
+Australia,Can't Feel My Face,The Weeknd,1322599,-25.2744,133.7751
+Australia,Seven Nation Army,The White Stripes,2343189,-25.2744,133.7751
+Australia,Under the Bridge,Red Hot Chili Peppers,2211851,-25.2744,133.7751
+Australia,Teardrop,Massive Attack,1600282,-25.2744,133.7751
+Australia,Everybody Wants to Rule the World,Tears for Fears,1938938,-25.2744,133.7751
+New Zealand,Mr. Brightside,The Killers,3072882,-40.9006,174.886
+New Zealand,Feel Good Inc.,Gorillaz,2661048,-40.9006,174.886
+New Zealand,Smells Like Teen Spirit,Nirvana,3206072,-40.9006,174.886
+New Zealand,Seven Nation Army,The White Stripes,2343189,-40.9006,174.886
+New Zealand,Under the Bridge,Red Hot Chili Peppers,2211851,-40.9006,174.886
+New Zealand,Africa,Toto,1647599,-40.9006,174.886
+New Zealand,Creep,Radiohead,2870305,-40.9006,174.886
+New Zealand,The Less I Know the Better,Tame Impala,1820269,-40.9006,174.886
+New Zealand,Everlong,Foo Fighters,2339983,-40.9006,174.886
+New Zealand,Karma Police,Radiohead,2466252,-40.9006,174.886
+Papua New Guinea,Close to You,Maxi Priest,95253,-6.3149,143.9555
+Papua New Guinea,Famous,French Montana,19915,-6.3149,143.9555
+Papua New Guinea,Our Dream,Justin Wellington,107,-6.3149,143.9555
+Fiji,Careless Whisper,George Michael,1272266,-17.7134,178.065
+Fiji,The Less I Know the Better,Tame Impala,1820269,-17.7134,178.065
+Fiji,Feel Good Inc.,Gorillaz,2661048,-17.7134,178.065
+Fiji,Pumped Up Kicks,Foster the People,2194143,-17.7134,178.065
+Fiji,Billie Jean,Michael Jackson,2228528,-17.7134,178.065
+Fiji,Sexual Healing,Marvin Gaye,699205,-17.7134,178.065
+Fiji,505,Arctic Monkeys,2005903,-17.7134,178.065
+Fiji,Mr. Brightside,The Killers,3072882,-17.7134,178.065
+Fiji,PRIDE.,Kendrick Lamar,1178704,-17.7134,178.065
+Fiji,HUMBLE.,Kendrick Lamar,1544791,-17.7134,178.065
+Samoa,Fade Into You,Mazzy Star,1345930,-13.759,-172.1046
+Samoa,Royals,Lorde,1635773,-13.759,-172.1046
+Samoa,Can't Stop,Red Hot Chili Peppers,1823672,-13.759,-172.1046
+Samoa,Livin' on a Prayer,Bon Jovi,1601756,-13.759,-172.1046
+Samoa,Maps,Yeah Yeah Yeahs,1226661,-13.759,-172.1046
+Samoa,Hello,Adele,820388,-13.759,-172.1046
+Samoa,Youth,Daughter,730635,-13.759,-172.1046
+Samoa,Million Reasons,Lady Gaga,480702,-13.759,-172.1046
+Samoa,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,487997,-13.759,-172.1046
+Samoa,Superstar,Sonic Youth,627922,-13.759,-172.1046

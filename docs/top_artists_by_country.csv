@@ -1,0 +1,516 @@
+Country,Longitude,Latitude,Artist,Listeners
+Russian Federation,61.524,105.3188,Linkin Park,5427114
+Russian Federation,61.524,105.3188,Red Hot Chili Peppers,6036073
+Russian Federation,61.524,105.3188,Queen,5891543
+Russian Federation,61.524,105.3188,Radiohead,6589277
+Russian Federation,61.524,105.3188,Nirvana,6095792
+Russian Federation,61.524,105.3188,Depeche Mode,3639554
+Russian Federation,61.524,105.3188,Lana Del Rey,4089352
+Russian Federation,61.524,105.3188,Muse,5211484
+Russian Federation,61.524,105.3188,Coldplay,7483430
+Russian Federation,61.524,105.3188,Moby,3100170
+Germany,51.1657,10.4515,Queen,5891543
+Germany,51.1657,10.4515,Coldplay,7483430
+Germany,51.1657,10.4515,Red Hot Chili Peppers,6036073
+Germany,51.1657,10.4515,David Bowie,4621259
+Germany,51.1657,10.4515,Ed Sheeran,3323699
+Germany,51.1657,10.4515,Nirvana,6095792
+Germany,51.1657,10.4515,The Rolling Stones,5025373
+Germany,51.1657,10.4515,The Beatles,5334045
+Germany,51.1657,10.4515,Radiohead,6589277
+Germany,51.1657,10.4515,Linkin Park,5427114
+United Kingdom,55.3781,-3.436,David Bowie,4621259
+United Kingdom,55.3781,-3.436,Radiohead,6589277
+United Kingdom,55.3781,-3.436,Fleetwood Mac,3704944
+United Kingdom,55.3781,-3.436,Queen,5891543
+United Kingdom,55.3781,-3.436,Coldplay,7483430
+United Kingdom,55.3781,-3.436,The Beatles,5334045
+United Kingdom,55.3781,-3.436,The Rolling Stones,5025373
+United Kingdom,55.3781,-3.436,Elton John,4214075
+United Kingdom,55.3781,-3.436,Michael Jackson,5325643
+United Kingdom,55.3781,-3.436,Daft Punk,5226051
+France,46.6034,1.8883,Radiohead,6589277
+France,46.6034,1.8883,David Bowie,4621259
+France,46.6034,1.8883,Daft Punk,5226051
+France,46.6034,1.8883,Queen,5891543
+France,46.6034,1.8883,Coldplay,7483430
+France,46.6034,1.8883,The Beatles,5334045
+France,46.6034,1.8883,The Rolling Stones,5025373
+France,46.6034,1.8883,Red Hot Chili Peppers,6036073
+France,46.6034,1.8883,Michael Jackson,5325643
+France,46.6034,1.8883,Nirvana,6095792
+Italy,41.8719,12.5674,David Bowie,4621259
+Italy,41.8719,12.5674,Radiohead,6589277
+Italy,41.8719,12.5674,Pink Floyd,4426284
+Italy,41.8719,12.5674,Queen,5891543
+Italy,41.8719,12.5674,Coldplay,7483430
+Italy,41.8719,12.5674,The Beatles,5334045
+Italy,41.8719,12.5674,The Rolling Stones,5025373
+Italy,41.8719,12.5674,The Cure,4338832
+Italy,41.8719,12.5674,Nirvana,6095792
+Italy,41.8719,12.5674,Red Hot Chili Peppers,6036073
+Spain,40.4637,-3.7492,David Bowie,4621259
+Spain,40.4637,-3.7492,Queen,5891543
+Spain,40.4637,-3.7492,Coldplay,7483430
+Spain,40.4637,-3.7492,Radiohead,6589277
+Spain,40.4637,-3.7492,The Rolling Stones,5025373
+Spain,40.4637,-3.7492,The Beatles,5334045
+Spain,40.4637,-3.7492,Muse,5211484
+Spain,40.4637,-3.7492,The Cure,4338832
+Spain,40.4637,-3.7492,Daft Punk,5226051
+Spain,40.4637,-3.7492,The Weeknd,3979631
+Ukraine,48.3794,31.1656,Radiohead,6589277
+Ukraine,48.3794,31.1656,Red Hot Chili Peppers,6036073
+Ukraine,48.3794,31.1656,Linkin Park,5427114
+Ukraine,48.3794,31.1656,Muse,5211484
+Ukraine,48.3794,31.1656,Coldplay,7483430
+Ukraine,48.3794,31.1656,Nirvana,6095792
+Ukraine,48.3794,31.1656,Queen,5891543
+Ukraine,48.3794,31.1656,Metallica,4096612
+Ukraine,48.3794,31.1656,Depeche Mode,3639554
+Ukraine,48.3794,31.1656,Lana Del Rey,4089352
+Poland,51.9194,19.1451,Coldplay,7483430
+Poland,51.9194,19.1451,Queen,5891543
+Poland,51.9194,19.1451,Red Hot Chili Peppers,6036073
+Poland,51.9194,19.1451,Metallica,4096612
+Poland,51.9194,19.1451,Ed Sheeran,3323699
+Poland,51.9194,19.1451,David Bowie,4621259
+Poland,51.9194,19.1451,Arctic Monkeys,5680270
+Poland,51.9194,19.1451,Radiohead,6589277
+Poland,51.9194,19.1451,Sia,3515677
+Poland,51.9194,19.1451,Nirvana,6095792
+Netherlands,52.1326,5.2913,Coldplay,7483430
+Netherlands,52.1326,5.2913,David Bowie,4621259
+Netherlands,52.1326,5.2913,Queen,5891543
+Netherlands,52.1326,5.2913,Radiohead,6589277
+Netherlands,52.1326,5.2913,Fleetwood Mac,3704944
+Netherlands,52.1326,5.2913,The Rolling Stones,5025373
+Netherlands,52.1326,5.2913,The Beatles,5334045
+Netherlands,52.1326,5.2913,Red Hot Chili Peppers,6036073
+Netherlands,52.1326,5.2913,Ed Sheeran,3323699
+Netherlands,52.1326,5.2913,Michael Jackson,5325643
+Belgium,50.5039,4.4699,David Bowie,4621259
+Belgium,50.5039,4.4699,Radiohead,6589277
+Belgium,50.5039,4.4699,Coldplay,7483430
+Belgium,50.5039,4.4699,The Beatles,5334045
+Belgium,50.5039,4.4699,Queen,5891543
+Belgium,50.5039,4.4699,The Rolling Stones,5025373
+Belgium,50.5039,4.4699,Fleetwood Mac,3704944
+Belgium,50.5039,4.4699,Daft Punk,5226051
+Belgium,50.5039,4.4699,Red Hot Chili Peppers,6036073
+Belgium,50.5039,4.4699,Nirvana,6095792
+China,35.8617,104.1954,Coldplay,7483430
+China,35.8617,104.1954,Adele,4574218
+China,35.8617,104.1954,Taylor Swift,4689314
+China,35.8617,104.1954,Ed Sheeran,3323699
+China,35.8617,104.1954,Maroon 5,5305919
+China,35.8617,104.1954,Rihanna,6777743
+China,35.8617,104.1954,The Weeknd,3979631
+China,35.8617,104.1954,Lana Del Rey,4089352
+China,35.8617,104.1954,Lady Gaga,5909551
+China,35.8617,104.1954,Sia,3515677
+India,20.5937,78.9629,Coldplay,7483430
+India,20.5937,78.9629,Pink Floyd,4426284
+India,20.5937,78.9629,Ed Sheeran,3323699
+India,20.5937,78.9629,The Weeknd,3979631
+India,20.5937,78.9629,A.R. Rahman,601891
+India,20.5937,78.9629,The Beatles,5334045
+India,20.5937,78.9629,Led Zeppelin,4023954
+India,20.5937,78.9629,Radiohead,6589277
+India,20.5937,78.9629,Linkin Park,5427114
+India,20.5937,78.9629,Queen,5891543
+Japan,36.2048,138.2529,宇多田ヒカル,408518
+Japan,36.2048,138.2529,The Beatles,5334045
+Japan,36.2048,138.2529,Perfume,355481
+Japan,36.2048,138.2529,椎名林檎,166407
+Japan,36.2048,138.2529,スピッツ,102325
+Japan,36.2048,138.2529,Radiohead,6589277
+Japan,36.2048,138.2529,サカナクション,63307
+Japan,36.2048,138.2529,ASIAN KUNG-FU GENERATION,513920
+Japan,36.2048,138.2529,くるり,82778
+Japan,36.2048,138.2529,Queen,5891543
+Indonesia,-0.7893,113.9213,Coldplay,7483430
+Indonesia,-0.7893,113.9213,Maroon 5,5305919
+Indonesia,-0.7893,113.9213,Ed Sheeran,3323699
+Indonesia,-0.7893,113.9213,Adele,4574218
+Indonesia,-0.7893,113.9213,Radiohead,6589277
+Indonesia,-0.7893,113.9213,John Mayer,3229430
+Indonesia,-0.7893,113.9213,Oasis,4745016
+Indonesia,-0.7893,113.9213,The Beatles,5334045
+Indonesia,-0.7893,113.9213,Bruno Mars,3930085
+Indonesia,-0.7893,113.9213,Arctic Monkeys,5680270
+Saudi Arabia,23.8859,45.0792,Coldplay,7483430
+Saudi Arabia,23.8859,45.0792,Adele,4574218
+Saudi Arabia,23.8859,45.0792,The Weeknd,3979631
+Saudi Arabia,23.8859,45.0792,Ed Sheeran,3323699
+Saudi Arabia,23.8859,45.0792,Rihanna,6777743
+Saudi Arabia,23.8859,45.0792,Sia,3515677
+Saudi Arabia,23.8859,45.0792,Lana Del Rey,4089352
+Saudi Arabia,23.8859,45.0792,Drake,5588059
+Saudi Arabia,23.8859,45.0792,Maroon 5,5305919
+Saudi Arabia,23.8859,45.0792,Radiohead,6589277
+Turkey,38.9637,35.2433,Radiohead,6589277
+Turkey,38.9637,35.2433,Coldplay,7483430
+Turkey,38.9637,35.2433,Queen,5891543
+Turkey,38.9637,35.2433,Pink Floyd,4426284
+Turkey,38.9637,35.2433,Daft Punk,5226051
+Turkey,38.9637,35.2433,Sia,3515677
+Turkey,38.9637,35.2433,Arctic Monkeys,5680270
+Turkey,38.9637,35.2433,The Weeknd,3979631
+Turkey,38.9637,35.2433,David Bowie,4621259
+Turkey,38.9637,35.2433,Red Hot Chili Peppers,6036073
+Thailand,15.87,100.9925,Coldplay,7483430
+Thailand,15.87,100.9925,Ed Sheeran,3323699
+Thailand,15.87,100.9925,Maroon 5,5305919
+Thailand,15.87,100.9925,Adele,4574218
+Thailand,15.87,100.9925,The Weeknd,3979631
+Thailand,15.87,100.9925,Taylor Swift,4689314
+Thailand,15.87,100.9925,Radiohead,6589277
+Thailand,15.87,100.9925,Calvin Harris,3970548
+Thailand,15.87,100.9925,Sia,3515677
+Thailand,15.87,100.9925,Sam Smith,2461797
+Malaysia,4.2105,101.9758,Coldplay,7483430
+Malaysia,4.2105,101.9758,Ed Sheeran,3323699
+Malaysia,4.2105,101.9758,Maroon 5,5305919
+Malaysia,4.2105,101.9758,The Weeknd,3979631
+Malaysia,4.2105,101.9758,Adele,4574218
+Malaysia,4.2105,101.9758,Rihanna,6777743
+Malaysia,4.2105,101.9758,Radiohead,6589277
+Malaysia,4.2105,101.9758,Sam Smith,2461797
+Malaysia,4.2105,101.9758,Justin Bieber,3545511
+Malaysia,4.2105,101.9758,Calvin Harris,3970548
+United States,37.0902,-95.7129,Radiohead,6589277
+United States,37.0902,-95.7129,David Bowie,4621259
+United States,37.0902,-95.7129,The Beatles,5334045
+United States,37.0902,-95.7129,The Weeknd,3979631
+United States,37.0902,-95.7129,Kanye West,6643150
+United States,37.0902,-95.7129,Drake,5588059
+United States,37.0902,-95.7129,Fleetwood Mac,3704944
+United States,37.0902,-95.7129,Kendrick Lamar,3714943
+United States,37.0902,-95.7129,Queen,5891543
+United States,37.0902,-95.7129,Weezer,4348383
+Canada,56.1304,-106.3468,Radiohead,6589277
+Canada,56.1304,-106.3468,The Weeknd,3979631
+Canada,56.1304,-106.3468,David Bowie,4621259
+Canada,56.1304,-106.3468,The Beatles,5334045
+Canada,56.1304,-106.3468,Drake,5588059
+Canada,56.1304,-106.3468,Coldplay,7483430
+Canada,56.1304,-106.3468,Kanye West,6643150
+Canada,56.1304,-106.3468,Daft Punk,5226051
+Canada,56.1304,-106.3468,Queen,5891543
+Canada,56.1304,-106.3468,Fleetwood Mac,3704944
+Mexico,23.6345,-102.5528,Radiohead,6589277
+Mexico,23.6345,-102.5528,Coldplay,7483430
+Mexico,23.6345,-102.5528,Daft Punk,5226051
+Mexico,23.6345,-102.5528,Queen,5891543
+Mexico,23.6345,-102.5528,Gorillaz,5427092
+Mexico,23.6345,-102.5528,David Bowie,4621259
+Mexico,23.6345,-102.5528,Café Tacvba,523193
+Mexico,23.6345,-102.5528,The Beatles,5334045
+Mexico,23.6345,-102.5528,Arctic Monkeys,5680270
+Mexico,23.6345,-102.5528,The Strokes,4706672
+Guatemala,15.7835,-90.2308,Coldplay,7483430
+Guatemala,15.7835,-90.2308,Radiohead,6589277
+Guatemala,15.7835,-90.2308,Queen,5891543
+Guatemala,15.7835,-90.2308,Daft Punk,5226051
+Guatemala,15.7835,-90.2308,Red Hot Chili Peppers,6036073
+Guatemala,15.7835,-90.2308,Nirvana,6095792
+Guatemala,15.7835,-90.2308,The Weeknd,3979631
+Guatemala,15.7835,-90.2308,The Beatles,5334045
+Guatemala,15.7835,-90.2308,Gorillaz,5427092
+Guatemala,15.7835,-90.2308,Guns N' Roses,4333804
+Honduras,15.2,-86.2419,Coldplay,7483430
+Honduras,15.2,-86.2419,Radiohead,6589277
+Honduras,15.2,-86.2419,Queen,5891543
+Honduras,15.2,-86.2419,Soda Stereo,541217
+Honduras,15.2,-86.2419,The Weeknd,3979631
+Honduras,15.2,-86.2419,Gorillaz,5427092
+Honduras,15.2,-86.2419,Daft Punk,5226051
+Honduras,15.2,-86.2419,Calvin Harris,3970548
+Honduras,15.2,-86.2419,The Beatles,5334045
+Honduras,15.2,-86.2419,Pink Floyd,4426284
+Nicaragua,12.8654,-85.2072,Coldplay,7483430
+Nicaragua,12.8654,-85.2072,Queen,5891543
+Nicaragua,12.8654,-85.2072,Shakira,3850339
+Nicaragua,12.8654,-85.2072,Rihanna,6777743
+Nicaragua,12.8654,-85.2072,The Weeknd,3979631
+Nicaragua,12.8654,-85.2072,Radiohead,6589277
+Nicaragua,12.8654,-85.2072,David Bowie,4621259
+Nicaragua,12.8654,-85.2072,Sia,3515677
+Nicaragua,12.8654,-85.2072,Elton John,4214075
+Nicaragua,12.8654,-85.2072,Drake,5588059
+Costa Rica,9.7489,-83.7534,Radiohead,6589277
+Costa Rica,9.7489,-83.7534,Queen,5891543
+Costa Rica,9.7489,-83.7534,Red Hot Chili Peppers,6036073
+Costa Rica,9.7489,-83.7534,Pink Floyd,4426284
+Costa Rica,9.7489,-83.7534,Coldplay,7483430
+Costa Rica,9.7489,-83.7534,David Bowie,4621259
+Costa Rica,9.7489,-83.7534,Daft Punk,5226051
+Costa Rica,9.7489,-83.7534,Gorillaz,5427092
+Costa Rica,9.7489,-83.7534,Nirvana,6095792
+Costa Rica,9.7489,-83.7534,The Cure,4338832
+Panama,8.538,-80.7821,The Weeknd,3979631
+Panama,8.538,-80.7821,Queen,5891543
+Panama,8.538,-80.7821,Drake,5588059
+Panama,8.538,-80.7821,Coldplay,7483430
+Panama,8.538,-80.7821,Maroon 5,5305919
+Panama,8.538,-80.7821,Linkin Park,5427114
+Panama,8.538,-80.7821,Ed Sheeran,3323699
+Panama,8.538,-80.7821,Calvin Harris,3970548
+Panama,8.538,-80.7821,Rihanna,6777743
+Panama,8.538,-80.7821,Radiohead,6589277
+Cuba,21.5218,-77.7812,Lana Del Rey,4089352
+Cuba,21.5218,-77.7812,The Beatles,5334045
+Cuba,21.5218,-77.7812,Eminem,6528962
+Cuba,21.5218,-77.7812,Daft Punk,5226051
+Cuba,21.5218,-77.7812,The Cure,4338832
+Cuba,21.5218,-77.7812,Fleetwood Mac,3704944
+Cuba,21.5218,-77.7812,U2,4287443
+Cuba,21.5218,-77.7812,Sia,3515677
+Cuba,21.5218,-77.7812,Elton John,4214075
+Cuba,21.5218,-77.7812,Justin Timberlake,4266768
+Dominican Republic,18.7357,-70.1627,The Weeknd,3979631
+Dominican Republic,18.7357,-70.1627,Coldplay,7483430
+Dominican Republic,18.7357,-70.1627,Queen,5891543
+Dominican Republic,18.7357,-70.1627,Drake,5588059
+Dominican Republic,18.7357,-70.1627,Radiohead,6589277
+Dominican Republic,18.7357,-70.1627,Calvin Harris,3970548
+Dominican Republic,18.7357,-70.1627,Maroon 5,5305919
+Dominican Republic,18.7357,-70.1627,Michael Jackson,5325643
+Dominican Republic,18.7357,-70.1627,Soda Stereo,541217
+Dominican Republic,18.7357,-70.1627,Daft Punk,5226051
+Brazil,-14.235,-51.9253,Rihanna,6777743
+Brazil,-14.235,-51.9253,Coldplay,7483430
+Brazil,-14.235,-51.9253,Queen,5891543
+Brazil,-14.235,-51.9253,Arctic Monkeys,5680270
+Brazil,-14.235,-51.9253,Red Hot Chili Peppers,6036073
+Brazil,-14.235,-51.9253,The Weeknd,3979631
+Brazil,-14.235,-51.9253,Beyoncé,5535439
+Brazil,-14.235,-51.9253,The Beatles,5334045
+Brazil,-14.235,-51.9253,Lady Gaga,5909551
+Brazil,-14.235,-51.9253,Maroon 5,5305919
+Argentina,-38.4161,-63.6167,Radiohead,6589277
+Argentina,-38.4161,-63.6167,Queen,5891543
+Argentina,-38.4161,-63.6167,David Bowie,4621259
+Argentina,-38.4161,-63.6167,Red Hot Chili Peppers,6036073
+Argentina,-38.4161,-63.6167,Soda Stereo,541217
+Argentina,-38.4161,-63.6167,The Beatles,5334045
+Argentina,-38.4161,-63.6167,The Rolling Stones,5025373
+Argentina,-38.4161,-63.6167,Coldplay,7483430
+Argentina,-38.4161,-63.6167,Gustavo Cerati,385014
+Argentina,-38.4161,-63.6167,Daft Punk,5226051
+Colombia,4.5709,-74.2973,Queen,5891543
+Colombia,4.5709,-74.2973,Radiohead,6589277
+Colombia,4.5709,-74.2973,Coldplay,7483430
+Colombia,4.5709,-74.2973,Daft Punk,5226051
+Colombia,4.5709,-74.2973,Red Hot Chili Peppers,6036073
+Colombia,4.5709,-74.2973,Soda Stereo,541217
+Colombia,4.5709,-74.2973,Arctic Monkeys,5680270
+Colombia,4.5709,-74.2973,The Rolling Stones,5025373
+Colombia,4.5709,-74.2973,Nirvana,6095792
+Colombia,4.5709,-74.2973,Gorillaz,5427092
+Chile,-35.6751,-71.543,Radiohead,6589277
+Chile,-35.6751,-71.543,Queen,5891543
+Chile,-35.6751,-71.543,David Bowie,4621259
+Chile,-35.6751,-71.543,Daft Punk,5226051
+Chile,-35.6751,-71.543,Coldplay,7483430
+Chile,-35.6751,-71.543,The Cure,4338832
+Chile,-35.6751,-71.543,The Beatles,5334045
+Chile,-35.6751,-71.543,Red Hot Chili Peppers,6036073
+Chile,-35.6751,-71.543,Blur,3941605
+Chile,-35.6751,-71.543,Arctic Monkeys,5680270
+Peru,-9.19,-75.0152,Coldplay,7483430
+Peru,-9.19,-75.0152,Radiohead,6589277
+Peru,-9.19,-75.0152,Queen,5891543
+Peru,-9.19,-75.0152,Daft Punk,5226051
+Peru,-9.19,-75.0152,Red Hot Chili Peppers,6036073
+Peru,-9.19,-75.0152,Soda Stereo,541217
+Peru,-9.19,-75.0152,The Beatles,5334045
+Peru,-9.19,-75.0152,David Bowie,4621259
+Peru,-9.19,-75.0152,Nirvana,6095792
+Peru,-9.19,-75.0152,The Cure,4338832
+Venezuela,6.4238,-66.5897,Coldplay,7483430
+Venezuela,6.4238,-66.5897,Radiohead,6589277
+Venezuela,6.4238,-66.5897,The Weeknd,3979631
+Venezuela,6.4238,-66.5897,Daft Punk,5226051
+Venezuela,6.4238,-66.5897,Queen,5891543
+Venezuela,6.4238,-66.5897,Red Hot Chili Peppers,6036073
+Venezuela,6.4238,-66.5897,Rihanna,6777743
+Venezuela,6.4238,-66.5897,Foo Fighters,5341425
+Venezuela,6.4238,-66.5897,The Beatles,5334045
+Venezuela,6.4238,-66.5897,Gorillaz,5427092
+Ecuador,-1.8312,-78.1834,Coldplay,7483430
+Ecuador,-1.8312,-78.1834,Queen,5891543
+Ecuador,-1.8312,-78.1834,Radiohead,6589277
+Ecuador,-1.8312,-78.1834,Red Hot Chili Peppers,6036073
+Ecuador,-1.8312,-78.1834,Soda Stereo,541217
+Ecuador,-1.8312,-78.1834,The Rolling Stones,5025373
+Ecuador,-1.8312,-78.1834,Daft Punk,5226051
+Ecuador,-1.8312,-78.1834,The Beatles,5334045
+Ecuador,-1.8312,-78.1834,David Bowie,4621259
+Ecuador,-1.8312,-78.1834,Calvin Harris,3970548
+Bolivia,-16.2902,-63.5887,Coldplay,7483430
+Bolivia,-16.2902,-63.5887,Queen,5891543
+Bolivia,-16.2902,-63.5887,Radiohead,6589277
+Bolivia,-16.2902,-63.5887,Red Hot Chili Peppers,6036073
+Bolivia,-16.2902,-63.5887,Daft Punk,5226051
+Bolivia,-16.2902,-63.5887,David Bowie,4621259
+Bolivia,-16.2902,-63.5887,Green Day,5241198
+Bolivia,-16.2902,-63.5887,The Rolling Stones,5025373
+Bolivia,-16.2902,-63.5887,Nirvana,6095792
+Bolivia,-16.2902,-63.5887,Gorillaz,5427092
+Paraguay,-23.4425,-58.4438,Queen,5891543
+Paraguay,-23.4425,-58.4438,Coldplay,7483430
+Paraguay,-23.4425,-58.4438,Radiohead,6589277
+Paraguay,-23.4425,-58.4438,Arctic Monkeys,5680270
+Paraguay,-23.4425,-58.4438,Red Hot Chili Peppers,6036073
+Paraguay,-23.4425,-58.4438,The Killers,5802365
+Paraguay,-23.4425,-58.4438,The Strokes,4706672
+Paraguay,-23.4425,-58.4438,The Cure,4338832
+Paraguay,-23.4425,-58.4438,Gorillaz,5427092
+Paraguay,-23.4425,-58.4438,David Bowie,4621259
+Uruguay,-32.5228,-55.7658,Queen,5891543
+Uruguay,-32.5228,-55.7658,Red Hot Chili Peppers,6036073
+Uruguay,-32.5228,-55.7658,The Rolling Stones,5025373
+Uruguay,-32.5228,-55.7658,The Beatles,5334045
+Uruguay,-32.5228,-55.7658,Coldplay,7483430
+Uruguay,-32.5228,-55.7658,Nirvana,6095792
+Uruguay,-32.5228,-55.7658,Radiohead,6589277
+Uruguay,-32.5228,-55.7658,Daft Punk,5226051
+Uruguay,-32.5228,-55.7658,David Bowie,4621259
+Uruguay,-32.5228,-55.7658,Arctic Monkeys,5680270
+Nigeria,9.082,8.6753,Drake,5588059
+Nigeria,9.082,8.6753,Coldplay,7483430
+Nigeria,9.082,8.6753,Rihanna,6777743
+Nigeria,9.082,8.6753,Michael Jackson,5325643
+Nigeria,9.082,8.6753,The Weeknd,3979631
+Nigeria,9.082,8.6753,Olamide,91499
+Nigeria,9.082,8.6753,Kendrick Lamar,3714943
+Nigeria,9.082,8.6753,Eminem,6528962
+Nigeria,9.082,8.6753,Wizkid,393936
+Nigeria,9.082,8.6753,Adele,4574218
+South Africa,-30.5595,22.9375,Radiohead,6589277
+South Africa,-30.5595,22.9375,Coldplay,7483430
+South Africa,-30.5595,22.9375,Queen,5891543
+South Africa,-30.5595,22.9375,Red Hot Chili Peppers,6036073
+South Africa,-30.5595,22.9375,Nirvana,6095792
+South Africa,-30.5595,22.9375,Ed Sheeran,3323699
+South Africa,-30.5595,22.9375,Muse,5211484
+South Africa,-30.5595,22.9375,The Beatles,5334045
+South Africa,-30.5595,22.9375,Foo Fighters,5341425
+South Africa,-30.5595,22.9375,The Weeknd,3979631
+Egypt,26.8206,30.8025,Coldplay,7483430
+Egypt,26.8206,30.8025,Pink Floyd,4426284
+Egypt,26.8206,30.8025,Radiohead,6589277
+Egypt,26.8206,30.8025,Adele,4574218
+Egypt,26.8206,30.8025,Queen,5891543
+Egypt,26.8206,30.8025,The Weeknd,3979631
+Egypt,26.8206,30.8025,The Beatles,5334045
+Egypt,26.8206,30.8025,Eminem,6528962
+Egypt,26.8206,30.8025,Rihanna,6777743
+Egypt,26.8206,30.8025,Metallica,4096612
+Algeria,28.0339,1.6596,The Weeknd,3979631
+Algeria,28.0339,1.6596,Coldplay,7483430
+Algeria,28.0339,1.6596,Ed Sheeran,3323699
+Algeria,28.0339,1.6596,Lana Del Rey,4089352
+Algeria,28.0339,1.6596,Radiohead,6589277
+Algeria,28.0339,1.6596,Daft Punk,5226051
+Algeria,28.0339,1.6596,Pink Floyd,4426284
+Algeria,28.0339,1.6596,Queen,5891543
+Algeria,28.0339,1.6596,Sia,3515677
+Algeria,28.0339,1.6596,Rihanna,6777743
+Morocco,31.7917,-7.0926,Coldplay,7483430
+Morocco,31.7917,-7.0926,The Weeknd,3979631
+Morocco,31.7917,-7.0926,Drake,5588059
+Morocco,31.7917,-7.0926,Eminem,6528962
+Morocco,31.7917,-7.0926,Pink Floyd,4426284
+Morocco,31.7917,-7.0926,Rihanna,6777743
+Morocco,31.7917,-7.0926,Sia,3515677
+Morocco,31.7917,-7.0926,Michael Jackson,5325643
+Morocco,31.7917,-7.0926,Radiohead,6589277
+Morocco,31.7917,-7.0926,Daft Punk,5226051
+Kenya,-0.0236,37.9062,Coldplay,7483430
+Kenya,-0.0236,37.9062,Rihanna,6777743
+Kenya,-0.0236,37.9062,Drake,5588059
+Kenya,-0.0236,37.9062,Kanye West,6643150
+Kenya,-0.0236,37.9062,Kendrick Lamar,3714943
+Kenya,-0.0236,37.9062,Beyoncé,5535439
+Kenya,-0.0236,37.9062,Adele,4574218
+Kenya,-0.0236,37.9062,The Weeknd,3979631
+Kenya,-0.0236,37.9062,Ed Sheeran,3323699
+Kenya,-0.0236,37.9062,Calvin Harris,3970548
+Ethiopia,9.145,40.4897,Tracy Chapman,1702807
+Ethiopia,9.145,40.4897,Queen,5891543
+Ethiopia,9.145,40.4897,Ed Sheeran,3323699
+Ethiopia,9.145,40.4897,Calvin Harris,3970548
+Ethiopia,9.145,40.4897,Radiohead,6589277
+Ethiopia,9.145,40.4897,The Beatles,5334045
+Ethiopia,9.145,40.4897,Coldplay,7483430
+Ethiopia,9.145,40.4897,Rihanna,6777743
+Ethiopia,9.145,40.4897,David Bowie,4621259
+Ethiopia,9.145,40.4897,Michael Jackson,5325643
+Ghana,7.9465,-1.0232,Rihanna,6777743
+Ghana,7.9465,-1.0232,Adele,4574218
+Ghana,7.9465,-1.0232,Drake,5588059
+Ghana,7.9465,-1.0232,Coldplay,7483430
+Ghana,7.9465,-1.0232,Jay-Z,4883938
+Ghana,7.9465,-1.0232,Beyoncé,5535439
+Ghana,7.9465,-1.0232,Eminem,6528962
+Ghana,7.9465,-1.0232,Bob Marley & The Wailers,2822413
+Ghana,7.9465,-1.0232,Alicia Keys,3368227
+Ghana,7.9465,-1.0232,Sarkodie,27905
+Uganda,1.3733,32.2903,Coldplay,7483430
+Uganda,1.3733,32.2903,Beyoncé,5535439
+Uganda,1.3733,32.2903,Eminem,6528962
+Uganda,1.3733,32.2903,Maroon 5,5305919
+Uganda,1.3733,32.2903,Sia,3515677
+Uganda,1.3733,32.2903,Sam Smith,2461797
+Uganda,1.3733,32.2903,Taylor Swift,4689314
+Uganda,1.3733,32.2903,The Weeknd,3979631
+Uganda,1.3733,32.2903,David Bowie,4621259
+Uganda,1.3733,32.2903,Florence + the Machine,3538458
+Australia,-25.2744,133.7751,Radiohead,6589277
+Australia,-25.2744,133.7751,David Bowie,4621259
+Australia,-25.2744,133.7751,The Weeknd,3979631
+Australia,-25.2744,133.7751,Coldplay,7483430
+Australia,-25.2744,133.7751,Tame Impala,3086095
+Australia,-25.2744,133.7751,Daft Punk,5226051
+Australia,-25.2744,133.7751,The Beatles,5334045
+Australia,-25.2744,133.7751,Fleetwood Mac,3704944
+Australia,-25.2744,133.7751,Queen,5891543
+Australia,-25.2744,133.7751,Kanye West,6643150
+New Zealand,-40.9006,174.886,Radiohead,6589277
+New Zealand,-40.9006,174.886,David Bowie,4621259
+New Zealand,-40.9006,174.886,Fleetwood Mac,3704944
+New Zealand,-40.9006,174.886,Queen,5891543
+New Zealand,-40.9006,174.886,Coldplay,7483430
+New Zealand,-40.9006,174.886,The Weeknd,3979631
+New Zealand,-40.9006,174.886,Daft Punk,5226051
+New Zealand,-40.9006,174.886,Lorde,2855093
+New Zealand,-40.9006,174.886,The Beatles,5334045
+New Zealand,-40.9006,174.886,Red Hot Chili Peppers,6036073
+Papua New Guinea,-6.3149,143.9555,French Montana,1455946
+Papua New Guinea,-6.3149,143.9555,Maxi Priest,218066
+Papua New Guinea,-6.3149,143.9555,Justin Wellington,83120
+Papua New Guinea,-6.3149,143.9555,Bugle,56751
+Papua New Guinea,-6.3149,143.9555,Cecile,51599
+Fiji,-17.7134,178.065,Michael Jackson,5325643
+Fiji,-17.7134,178.065,Daft Punk,5226051
+Fiji,-17.7134,178.065,Ed Sheeran,3323699
+Fiji,-17.7134,178.065,Fleetwood Mac,3704944
+Fiji,-17.7134,178.065,Marvin Gaye,2940182
+Fiji,-17.7134,178.065,Lana Del Rey,4089352
+Fiji,-17.7134,178.065,The Weeknd,3979631
+Fiji,-17.7134,178.065,Ariana Grande,3309242
+Fiji,-17.7134,178.065,Kendrick Lamar,3714943
+Fiji,-17.7134,178.065,Eminem,6528962
+Samoa,-13.759,-172.1046,Kanye West,6643150
+Samoa,-13.759,-172.1046,Lady Gaga,5909551
+Samoa,-13.759,-172.1046,Red Hot Chili Peppers,6036073
+Samoa,-13.759,-172.1046,Lorde,2855093
+Samoa,-13.759,-172.1046,David Bowie,4621259
+Samoa,-13.759,-172.1046,Adele,4574218
+Samoa,-13.759,-172.1046,Björk,2929331
+Samoa,-13.759,-172.1046,Placebo,3037292
+Samoa,-13.759,-172.1046,Amy Winehouse,3680042
+Samoa,-13.759,-172.1046,Modest Mouse,2956620
